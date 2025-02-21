@@ -6,7 +6,7 @@
 
 💡 Meu objetivo é criar soluções eficientes, aprender constantemente e compartilhar meu conhecimento com a comunidade tech.
 
-🔎 Estou sempre em busca de oportunidades para crescer e contribuir para projetos inovadores. Vamos nos conectar?
+🔎 Estou sempre em busca de oportunidades para crescer e contribuir para projetos inovadores. 
 
 ---
 
