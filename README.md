@@ -2,12 +2,11 @@
 
 **`Desenvolvedora Full Stack | Explorando o Mundo da Tecnologia`**
 
-🚀 Apaixonada por tecnologia e inovação, estou em transição de carreira para a área de desenvolvimento. Com formação em Pedagogia e experiência na área administrativa, encontrei na programação um novo desafio que me inspira todos os dias. Atualmente, estudo **Análise e Desenvolvimento de Sistemas** e concluí o **bootcamp Full Stack da Generation**, onde aprimorei minhas habilidades em **Java, TypeScript, React e mais**.
+🚀 Sou apaixonada por tecnologia e inovação e estou em transição de carreira para a área de desenvolvimento. Com formação em Pedagogia e experiência na área administrativa, encontrei na programação um novo desafio que me inspira todos os dias. Atualmente, estudo Análise e Desenvolvimento de Sistemas e concluí o bootcamp Full Stack da Generation, onde aprimorei minhas habilidades em Java, TypeScript, React e mais.
 
 💡 Meu objetivo é criar soluções eficientes, aprender constantemente e compartilhar meu conhecimento com a comunidade tech.
 
-🔎 Estou sempre em busca de oportunidades para crescer e contribuir para projetos inovadores. 
-
+🔎 Estou sempre em busca de oportunidades para crescer e contribuir para projetos inovadores.
 ---
 
 ### 🚀 Tecnologias e Ferramentas
