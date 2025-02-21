@@ -1,4 +1,4 @@
-# 👩‍💻 Rosilene Farias Domingues
+# 👩‍💻 Rosilene Farias
 
 **`Desenvolvedora Full Stack | Explorando o Mundo da Tecnologia`**
 
