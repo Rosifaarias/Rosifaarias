@@ -1,13 +1,15 @@
-# 👩‍💻 Rosilene Farias
+# 👋 Oi, eu sou a Rosi!
 
-**`Desenvolvedora Full Stack | Explorando o Mundo da Tecnologia`**
+💻 **Desenvolvedora Full Stack | Explorando o Mundo da Tecnologia 🚀**
 
-🚀 Sou apaixonada por tecnologia e inovação e estou em transição de carreira para a área de desenvolvimento. Com formação em Pedagogia e experiência na área administrativa, encontrei na programação um novo desafio que me inspira todos os dias. Atualmente, estudo Análise e Desenvolvimento de Sistemas e concluí o bootcamp Full Stack da Generation, onde aprimorei minhas habilidades em Java, TypeScript, React e mais.
+Apaixonada por tecnologia, café e boas conversas! ☕ Depois de anos atuando na área administrativa, decidi me aventurar no universo da programação e estou adorando cada descoberta.
 
-💡 Meu objetivo é criar soluções eficientes, aprender constantemente e compartilhar meu conhecimento com a comunidade tech.
+Atualmente, estudo **Análise e Desenvolvimento de Sistemas** e participei do **bootcamp Full Stack da Generation**, onde aprimorei minhas habilidades técnicas e comportamentais.
 
-🔎 Estou sempre em busca de oportunidades para crescer e contribuir para projetos inovadores.
----
+## 💡 Um pouco mais sobre mim:
+👩‍🎓 **Formada em Pedagogia** (sim, eu gosto de aprender e ensinar!)  
+👩‍💻 **Em transição para a área de tecnologia**  
+🍰 **Amo café e testar novas receitas na cozinha**  
 
 ### 🚀 Tecnologias e Ferramentas
 
