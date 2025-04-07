@@ -27,14 +27,7 @@ Atualmente, estudo **Análise e Desenvolvimento de Sistemas** e participei do **
 
 ---
 
-### 💊 Metodologias Ágeis
 
-- Scrum
-- Trabalho em equipe
-- Resolução de problemas
-- Comunicação eficaz
-
----
 
 ### 📊 Estatísticas
 
